@@ -1,6 +1,6 @@
 # YouTube
-Data Analysis Summary of Amazon Reviews
-Problematic Analyzed
+## Data Analysis Summary of Amazon Reviews
+### Problematic Analyzed
 The analysis focused on product reviews on Amazon. The main issue addressed was understanding trends and patterns in user opinions, identifying products with the best and worst ratings, and analyzing the frequency of recurring users. This enables businesses to optimize their product offerings and enhance customer satisfaction through a deep understanding of user feedback and experiences.
 
 Steps Followed for Data Analysis
