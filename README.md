@@ -17,9 +17,13 @@ The analysis focused on product reviews on Amazon. The main issue addressed was 
 4. Product and User Analysis: [4.1] Identifying products with the best and worst ratings. [4.2] Analyzing frequent users to understand recurring behaviors.
 
 ### Images
-|Img1|Img2|
+|Image 1|Image 2|
 |----|----|
 |![Imagen1](https://github.com/sdforero/YouTube/blob/main/1.%20Products%20positives%20reviews.png)|![Imagen2](https://github.com/sdforero/YouTube/blob/main/2.%20Relation%20between%20quantity%20and%20score%20freq.png)|
+
+|Image 3|Image 4|
+|----|----|
+|![Imagen3](https://github.com/sdforero/YouTube/blob/main/1.%20Products%20positives%20reviews.png)|![Imagen4](https://github.com/sdforero/YouTube/blob/main/2.%20Relation%20between%20quantity%20and%20score%20freq.png)|
 
 ### Analysis conclusions
 - Sentiment trends: The majority of reviews tend to be positive, with an average polarity reflecting general satisfaction with the products.
