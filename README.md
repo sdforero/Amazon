@@ -21,7 +21,7 @@ Jupyter Notebooks: For documenting and executing the analysis step-by-step.
 Matplotlib and Seaborn: For data visualization and results.
 
 ### Analysis conclusions
-1. Sentiment Trends: The majority of reviews tend to be positive, with an average polarity reflecting general satisfaction with the products.
-2. Highlighted Products: Certain products consistently received high ratings, serving as a reference for marketing and promotional strategies.
-3. Frequent Users: Analysis of frequent users revealed behavior patterns that can be useful for loyalty programs and personalized offers.
-4. Areas for Improvement: Products with low ratings were also identified, suggesting specific areas where sellers can focus their improvement efforts.
+- Sentiment Trends: The majority of reviews tend to be positive, with an average polarity reflecting general satisfaction with the products.
+- Highlighted Products: Certain products consistently received high ratings, serving as a reference for marketing and promotional strategies.
+- Frequent Users: Analysis of frequent users revealed behavior patterns that can be useful for loyalty programs and personalized offers.
+- Areas for Improvement: Products with low ratings were also identified, suggesting specific areas where sellers can focus their improvement efforts.
