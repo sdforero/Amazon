@@ -18,6 +18,8 @@ The analysis focused on product reviews on Amazon. The main issue addressed was 
 
 ### Images
 ![Imagen 1](https://github.com/sdforero/YouTube/blob/main/1.%20Products%20positives%20reviews.png)
+![Imagen 2](https://github.com/sdforero/YouTube/blob/main/1.%20Products%20positives%20reviews.png)
+
 
 ### Analysis conclusions
 - Sentiment trends: The majority of reviews tend to be positive, with an average polarity reflecting general satisfaction with the products.
