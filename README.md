@@ -14,7 +14,7 @@ The analysis focused on product reviews on Amazon. The main issue addressed was 
 1. Data Loading: Reviews were imported in tabular format, containing fields such as Id, ProductId, UserId, ProfileName, among others.
 2. Data Preprocessing: [2.1] Filtering data to handle null values and inconsistent data. [2.2] Extracting a sample of 50,000 rows to facilitate the analysis.
 3. Sentiment Analysis: The TextBlob library was used to calculate the polarity of the reviews, determining the positive or negative sentiment of each opinion.
-4. Product and User Analysis:[4.1] Identifying products with the best and worst ratings. [4.2] Analyzing frequent users to understand recurring behaviors.
+4. Product and User Analysis: [4.1] Identifying products with the best and worst ratings. [4.2] Analyzing frequent users to understand recurring behaviors.
 
 ### Images
 ![Imagen 1](https://github.com/sdforero/YouTube/blob/main/output_109_1.png)
