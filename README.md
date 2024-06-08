@@ -18,7 +18,7 @@ The analysis focused on product reviews on Amazon. The main issue addressed was 
 
 ### Images
 ![Imagen 1](https://github.com/sdforero/YouTube/blob/main/1.%20Products%20positives%20reviews.png)
-![Imagen 2](https://github.com/sdforero/YouTube/blob/main/1.%20Products%20positives%20reviews.png)
+![Imagen 2](https://github.com/sdforero/YouTube/blob/main/2.%20Relation%20between%20quantity%20and%20score%20freq.png)
 
 
 ### Analysis conclusions
