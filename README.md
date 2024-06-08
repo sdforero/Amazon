@@ -6,8 +6,8 @@ The analysis focused on product reviews on Amazon. The main issue addressed was 
 ### Steps followed for data analysis
 1. Data Loading: Reviews were imported in tabular format, containing fields such as Id, ProductId, UserId, ProfileName, among others.
 2. Data Preprocessing: [2.1] Filtering data to handle null values and inconsistent data. [2.2] Extracting a sample of 50,000 rows to facilitate the analysis.
-4. Sentiment Analysis: The TextBlob library was used to calculate the polarity of the reviews, determining the positive or negative sentiment of each opinion.
-5. Product and User Analysis: [5.1] Identifying products with the best and worst ratings. [5.2] Analyzing frequent users to understand recurring behaviors.
+3. Sentiment Analysis: The TextBlob library was used to calculate the polarity of the reviews, determining the positive or negative sentiment of each opinion.
+4. Product and User Analysis:[4.1] Identifying products with the best and worst ratings. [4.2] Analyzing frequent users to understand recurring behaviors.
 
 ### Technologies used
 - Python: Primary language for analysis.
