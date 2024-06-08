@@ -14,14 +14,14 @@ The analysis focused on product reviews on Amazon. The main issue addressed was 
 5.2. Analyzing frequent users to understand recurring behaviors.
 
 ### Technologies used
-Python: Primary language for analysis.
-Pandas: For manipulation and analysis of structured data.
-TextBlob: For sentiment analysis.
-Jupyter Notebooks: For documenting and executing the analysis step-by-step.
-Matplotlib and Seaborn: For data visualization and results.
+- Python: Primary language for analysis.
+- Pandas: For manipulation and analysis of structured data.
+- TextBlob: For sentiment analysis.
+- Jupyter Notebooks: For documenting and executing the analysis step-by-step.
+- Matplotlib and Seaborn: For data visualization and results.
 
 ### Analysis conclusions
-- Sentiment Trends: The majority of reviews tend to be positive, with an average polarity reflecting general satisfaction with the products.
-- Highlighted Products: Certain products consistently received high ratings, serving as a reference for marketing and promotional strategies.
-- Frequent Users: Analysis of frequent users revealed behavior patterns that can be useful for loyalty programs and personalized offers.
-- Areas for Improvement: Products with low ratings were also identified, suggesting specific areas where sellers can focus their improvement efforts.
+- Sentiment trends: The majority of reviews tend to be positive, with an average polarity reflecting general satisfaction with the products.
+- Highlighted products: Certain products consistently received high ratings, serving as a reference for marketing and promotional strategies.
+- Frequent users: Analysis of frequent users revealed behavior patterns that can be useful for loyalty programs and personalized offers.
+- Areas for improvement: Products with low ratings were also identified, suggesting specific areas where sellers can focus their improvement efforts.
