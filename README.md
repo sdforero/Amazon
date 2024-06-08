@@ -23,7 +23,7 @@ The analysis focused on product reviews on Amazon. The main issue addressed was 
 
 |Image 3|Image 4|
 |----|----|
-|![Imagen3](https://github.com/sdforero/YouTube/blob/main/3.%20Relation%20between%20quantity%20and%20score%20non%20freq.png)|![Imagen4](https://github.com/sdforero/YouTube/blob/main/2.%20Relation%20between%20quantity%20and%20score%20freq.png)|
+|![Imagen3](https://github.com/sdforero/YouTube/blob/main/3.%20Relation%20between%20quantity%20and%20score%20non%20freq.png)|![Imagen4](https://github.com/sdforero/YouTube/blob/main/4.%20Score%20most%20sold%20products.png)|
 
 ### Analysis conclusions
 - Sentiment trends: The majority of reviews tend to be positive, with an average polarity reflecting general satisfaction with the products.
