@@ -17,15 +17,10 @@ The analysis focused on product reviews on Amazon. The main issue addressed was 
 4. Product and User Analysis: [4.1] Identifying products with the best and worst ratings. [4.2] Analyzing frequent users to understand recurring behaviors.
 
 ### Images
-|Image 1|Image 2|
 |----|----|
 |![Imagen1](https://github.com/sdforero/YouTube/blob/main/1.%20Products%20positives%20reviews.png)|![Imagen2](https://github.com/sdforero/YouTube/blob/main/2.%20Relation%20between%20quantity%20and%20score%20freq.png)|
-
-|Image 3|Image 4|
 |----|----|
 |![Imagen3](https://github.com/sdforero/YouTube/blob/main/3.%20Relation%20between%20quantity%20and%20score%20non%20freq.png)|![Imagen4](https://github.com/sdforero/YouTube/blob/main/4.%20Score%20most%20sold%20products.png)|
-
-|Image 5|Image 6|
 |----|----|
 |![Imagen5](https://github.com/sdforero/YouTube/blob/main/5.%20Text%20lenght%20comparison.png)|![Imagen6](https://github.com/sdforero/YouTube/blob/main/6.%20Top%2010%20users.png)|
 
