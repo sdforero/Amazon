@@ -1,25 +1,20 @@
-# YouTube
-## Summary of the YouTube data analysis
+# Amazon
+## Summary of Amazon reviews
 ### Problematic analyzed
-The project focuses on gaining a better understanding of audience interaction and behavior on YouTube videos. It analyzes how factors such as likes, dislikes, comments, and emojis affect video views and seeks to determine whether the audience is entertained​​.
+The analysis focused on product reviews on Amazon. The main issue addressed was understanding trends and patterns in user opinions, identifying products with the best and worst ratings, and analyzing the frequency of recurring users. This enables businesses to optimize their product offerings and enhance customer satisfaction through a deep understanding of user feedback and experiences.
 
 ### Technologies used
 - Python: Primary language for analysis.
 - Pandas: For manipulation and analysis of structured data.
 - TextBlob: For sentiment analysis.
-- String: For punctuation analysis.
 - Jupyter Notebooks: For documenting and executing the analysis step-by-step.
 - Matplotlib and Seaborn: For data visualization and results.
 
 ### Functions used
-1. TextBlob().sentiment: To analyze the sentiment of comments.
-2. 'for' loop: To iterate through the comments and calculate the sentiment of each, storing the result in a new DataFrame column​​.
+1. Txt
 
 ### Steps followed for data analysis
-1. Data import: Relevant data such as comments, likes, dislikes, and video views were imported.
-2. Data Preprocessing: [2.1] The data was cleaned by removing null values and duplicates. [2.2] Text in the comments was tokenized and normalized.
-3. Sentiment Analysis: TextBlob was used to analyze the sentiment of comments and emojis, classifying them as positive, negative, or neutral​​.
-4. Audience interpretation: The correlation between punctuation marks and the number of comments with the number of views was analyzed to understand the relationship between audience activity and video success​​..
+1. Txt.
 
 ### Visualization 
 |----|----|
@@ -29,6 +24,4 @@ The project focuses on gaining a better understanding of audience interaction an
 |![Imagen5]()|![Imagen6]()
 
 ### Analysis conclusions
-- There is a significant correlation between positive comments and the number of video views, suggesting that an entertained and engaged audience tends to increase the popularity of the content.
-- Punctuation marks and emojis in comments are useful indicators for determining the emotional interaction level of the audience.
-- Combining sentiment analysis and audience behavior can provide valuable insights for content creators looking to optimize their strategy on YouTube​​.
+- Txt.
