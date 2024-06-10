@@ -6,15 +6,17 @@ The analysis focused on product reviews on Amazon. The main issue addressed was 
 ### Technologies used
 - Python: Primary language for analysis.
 - Pandas: For manipulation and analysis of structured data.
+- NumPy: For mathematical operations and linear algebra.
 - TextBlob: For sentiment analysis.
 - Jupyter Notebooks: For documenting and executing the analysis step-by-step.
 - Matplotlib and Seaborn: For data visualization and results.
 
-### Functions used
-1. Txt
-
 ### Steps followed for data analysis
-1. Txt.
+1. Data Collection: Sales data, customer reviews, and product features were collected from Amazon.
+2. Data Cleaning: The data was cleaned to remove inconsistencies, null values, and duplicates.
+3. Exploratory Data Analysis (EDA): Visualizations were created to identify initial trends and patterns.
+4. Data Transformation: Data was transformed to be suitable for analysis.
+5. Visualization and Reporting: Key findings were visualized using various charts and graphs to aid in the interpretation of data.
 
 ### Visualization 
 |----|----|
@@ -24,4 +26,7 @@ The analysis focused on product reviews on Amazon. The main issue addressed was 
 |![Imagen5](https://github.com/sdforero/Amazon/blob/main/5.%20Text%20lenght%20comparison.png)|![Imagen6](https://github.com/sdforero/Amazon/blob/main/6.%20Top%2010%20users.png)
 
 ### Analysis conclusions
-- Txt.
+- Sales Patterns: Certain products have sales peaks during special events and holiday seasons.
+- Influence of Reviews: Products with better reviews and ratings tend to have higher sales.
+- Product Popularity: By analyzing customer reviews and sales data, it was possible to identify the factors that contribute to a product’s popularity.
+- Inventory Insights: Insights gained can help in better inventory management and planning.
