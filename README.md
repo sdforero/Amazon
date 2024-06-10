@@ -18,10 +18,10 @@ The analysis focused on product reviews on Amazon. The main issue addressed was 
 
 ### Visualization 
 |----|----|
-|![Imagen1]()|![Imagen2]()
+|![Imagen1](https://github.com/sdforero/Amazon/blob/main/1.%20Products%20positives%20reviews.png)|![Imagen2](https://github.com/sdforero/Amazon/blob/main/2.%20Relation%20between%20quantity%20and%20score%20freq.png)
 |----|----|
-|![Imagen3]()|![Imagen4]()
-|![Imagen5]()|![Imagen6]()
+|![Imagen3](https://github.com/sdforero/Amazon/blob/main/3.%20Relation%20between%20quantity%20and%20score%20non%20freq.png)|![Imagen4](https://github.com/sdforero/Amazon/blob/main/4.%20Score%20most%20sold%20products.png)
+|![Imagen5](https://github.com/sdforero/Amazon/blob/main/5.%20Text%20lenght%20comparison.png)|![Imagen6](https://github.com/sdforero/Amazon/blob/main/6.%20Top%2010%20users.png)
 
 ### Analysis conclusions
 - Txt.
