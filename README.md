@@ -1,30 +1,34 @@
-# Amazon
-## Data analysis summary of Amazon reviews
+# YouTube
+## Summary of the YouTube data analysis
 ### Problematic analyzed
-The analysis focused on product reviews on Amazon. The main issue addressed was understanding trends and patterns in user opinions, identifying products with the best and worst ratings, and analyzing the frequency of recurring users. This enables businesses to optimize their product offerings and enhance customer satisfaction through a deep understanding of user feedback and experiences.
+The project focuses on gaining a better understanding of audience interaction and behavior on YouTube videos. It analyzes how factors such as likes, dislikes, comments, and emojis affect video views and seeks to determine whether the audience is entertained​​.
 
 ### Technologies used
 - Python: Primary language for analysis.
 - Pandas: For manipulation and analysis of structured data.
 - TextBlob: For sentiment analysis.
+- String: For punctuation analysis.
 - Jupyter Notebooks: For documenting and executing the analysis step-by-step.
 - Matplotlib and Seaborn: For data visualization and results.
-  
+
+### Functions used
+1. TextBlob().sentiment: To analyze the sentiment of comments.
+2. 'for' loop: To iterate through the comments and calculate the sentiment of each, storing the result in a new DataFrame column​​.
+
 ### Steps followed for data analysis
-1. Data Loading: Reviews were imported in tabular format, containing fields such as Id, ProductId, UserId, ProfileName, among others.
-2. Data Preprocessing: [2.1] Filtering data to handle null values and inconsistent data. [2.2] Extracting a sample of 50,000 rows to facilitate the analysis.
-3. Sentiment Analysis: The TextBlob library was used to calculate the polarity of the reviews, determining the positive or negative sentiment of each opinion.
-4. Product and User Analysis: [4.1] Identifying products with the best and worst ratings. [4.2] Analyzing frequent users to understand recurring behaviors.
+1. Data import: Relevant data such as comments, likes, dislikes, and video views were imported.
+2. Data Preprocessing: [2.1] The data was cleaned by removing null values and duplicates. [2.2] Text in the comments was tokenized and normalized.
+3. Sentiment Analysis: TextBlob was used to analyze the sentiment of comments and emojis, classifying them as positive, negative, or neutral​​.
+4. Audience interpretation: The correlation between punctuation marks and the number of comments with the number of views was analyzed to understand the relationship between audience activity and video success​​..
 
 ### Visualization 
 |----|----|
-|![Imagen1](https://github.com/sdforero/YouTube/blob/main/1.%20Products%20positives%20reviews.png)|![Imagen2](https://github.com/sdforero/YouTube/blob/main/2.%20Relation%20between%20quantity%20and%20score%20freq.png)
+|![Imagen1]()|![Imagen2]()
 |----|----|
-|![Imagen3](https://github.com/sdforero/YouTube/blob/main/3.%20Relation%20between%20quantity%20and%20score%20non%20freq.png)|![Imagen4](https://github.com/sdforero/YouTube/blob/main/4.%20Score%20most%20sold%20products.png)
-|![Imagen5](https://github.com/sdforero/YouTube/blob/main/5.%20Text%20lenght%20comparison.png)|![Imagen6](https://github.com/sdforero/YouTube/blob/main/6.%20Top%2010%20users.png)
+|![Imagen3]()|![Imagen4]()
+|![Imagen5]()|![Imagen6]()
 
 ### Analysis conclusions
-- Sentiment trends: The majority of reviews tend to be positive, with an average polarity reflecting general satisfaction with the products.
-- Highlighted products: Certain products consistently received high ratings, serving as a reference for marketing and promotional strategies.
-- Frequent users: Analysis of frequent users revealed behavior patterns that can be useful for loyalty programs and personalized offers.
-- Areas for improvement: Products with low ratings were also identified, suggesting specific areas where sellers can focus their improvement efforts.
+- There is a significant correlation between positive comments and the number of video views, suggesting that an entertained and engaged audience tends to increase the popularity of the content.
+- Punctuation marks and emojis in comments are useful indicators for determining the emotional interaction level of the audience.
+- Combining sentiment analysis and audience behavior can provide valuable insights for content creators looking to optimize their strategy on YouTube​​.
